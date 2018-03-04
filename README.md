@@ -10,6 +10,12 @@ be performed for publicly available sites only.
 Installation
 ------------
 
+### From Chrome WebStore
+
+https://chrome.google.com/webstore/detail/google-pagespeed-insights/mnlkikgkmnbcionegaldeonkhgdaoeeb
+
+### From Sources
+
 Download source code as ZIP archive, open <chrome://extensions>, enable 
 _Developer mode_ at the top right corner. 
 Then press _Load unpacked extension..._ and select __src__ directory 
